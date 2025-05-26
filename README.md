@@ -27,8 +27,8 @@ Test your memory by flipping cards and matching pairs. Each game randomly shuffl
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/memory-match-game.git
-   cd memory-match-game
+   git clone https://github.com/jeughaleyuvraj0300/Memory-Game.git
+   cd memory-game
 
 2. **Install dependencies:**
 
@@ -37,3 +37,19 @@ Test your memory by flipping cards and matching pairs. Each game randomly shuffl
 3. **Start the development server:**
 
     npm run dev
+
+## 🧠 How to Play
+    Click any two cards to flip them.
+
+    If they match, they stay flipped.
+
+    If not, they flip back over.
+
+    Try to match all pairs in the fewest number of moves.
+
+
+## 🤝 Contributing
+    Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+## 📄 License
+    This project is licensed under the MIT License.
